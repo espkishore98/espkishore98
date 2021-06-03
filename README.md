@@ -2,7 +2,7 @@
 
 <!--
 **espkishore98/espkishore98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![kishore's GitHub stats](https://github-readme-stats.vercel.app/api?username=espkishore98&show_icons=true&hide=contribs,prs&count_private=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=espkishore98&show_icons=true&hide=contribs,prs&count_private=true&theme=gruvbox)
 
 Here are some ideas to get you started:
 
